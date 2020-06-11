@@ -1,0 +1,6 @@
+Package: helloworld
+Description: Paquete para pruebas de debsums
+Maintainer: Marcelo Guazzardo <mguazzardo76@gmail.com>
+Architecture: all
+Version: 1.0
+
